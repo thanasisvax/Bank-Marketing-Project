@@ -9,7 +9,7 @@ See the attached Architectural Steps Diagram Powerpoint.
 
 ## Key Steps
 
-#Note: All the pictures can be found in this GIT repository. 
+#Note: All the pictures can be found in this GIT repository Starter_files/Pictures. 
 Step 1: I skipped this step as I used the Udacity Lab and as such I was not authorized to create a principal security.
 Step 2: Pictures Step 2-1, 2-2, 2-3 are applicable for this step. In picture Step 2-1, it can be seen the registered dataset in AzureML studio which is the bank marketing dataset. The picture Step 2-2 show that the AutoML run is completed. Finally, picture 2-3 show the best model which is the Voting Ensemble. 
 Step 3: Picture Step 3 show that the deployed best model was completed.
