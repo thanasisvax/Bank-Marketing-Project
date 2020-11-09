@@ -19,7 +19,6 @@ Step 6: Picture Step 6 show the output from the run of the endpoint.py file. Ben
 Step 7: Pictures Step 7-1, 7-2, 7-3, 7-4, 7-5, 7-5b, 7-6 show the outputs from running the aml-pipelines-with-automated-machine-learning-step.ipynd notebook file. It is apparent that running through the cells of the jupyter notebook, I created/consumed and published the best model for the bank marketing dataset using AutoML with Python SDK. 
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
-## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+Recording is available in Box folder in the following link:
+https://app.box.com/s/ppa7kiit05tmve9pry7mfdb39epwfcvq
