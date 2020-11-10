@@ -88,4 +88,4 @@ https://app.box.com/s/ppa7kiit05tmve9pry7mfdb39epwfcvq</p>
 **Note:** The file will be downloaded from the Box link above.
 
  ## Improvements
-
+The dataset looks to be biased towards the no answer on the 'y' column. So, one of the improvements on the notebook will be to try to split the data to training/cross validation/testing datasets in order to try to improve the overfitting of the model.</p> Also, we can try to create our own classification model instead of using the AutoML config machine in order to identify the best model. This will give us the opportunity to optimize our model using the hyperparameter functions.</p> Finally, I would suggest to play more with the endpoint.py file in order to interact more with our deployed model.
