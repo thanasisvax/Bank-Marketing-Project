@@ -25,7 +25,7 @@ The steps followed throughout this project are shown below in the Architectural 
 
 ### Step 2:
 
-In picture Step 2-1 it can be seen the registered dataset in AzureML studio which is the bank marketing dataset.
+In picture Step 2-1 it can be seen the registered dataset in AzureML studio which is the bank marketing dataset.</p>
 ![alt](https://github.com/thanasisvax/MLops-Operations/blob/master/starter_files/Pictures/Step%202-1.PNG)</p>
 
 
@@ -68,10 +68,10 @@ Picture Step 7-1 shows that Pipeline has been created</p>
 Picture Step 7-2 shows the Pipeline endpoints</p>
 ![alt](https://github.com/thanasisvax/MLops-Operations/blob/master/starter_files/Pictures/Step%207-2.PNG)</p>
 
-Picture Step 7-3 shows the bank marketing dataset to be fet into the AutoML run</p>
+Picture Step 7-3 shows the bank marketing dataset to be fed into the AutoML run</p>
 ![alt](https://github.com/thanasisvax/MLops-Operations/blob/master/starter_files/Pictures/Step%207-3.PNG)</p>
 
-Picture Step 7-4 shows the bank marketing dataset to be fed into the AutoML run. Also it shows that the REST endpoint and the status to be Active.</p>
+Picture Step 7-4 shows the REST endpoint and the status to be Active.</p>
 ![alt](https://github.com/thanasisvax/MLops-Operations/blob/master/starter_files/Pictures/Step%207-4.PNG)</p>
 
 Picture Step 7-5 and 7-5b show the Run Details from the AutoML run from the notebook.</p>
