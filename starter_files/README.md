@@ -65,7 +65,7 @@ Picture Step 6 show the output from the run of the endpoint.py file. Benchmark w
 Picture Step 7-1 shows that Pipeline has been created</p>
 ![alt](https://github.com/thanasisvax/MLops-Operations/blob/master/starter_files/Pictures/Step%207-1.PNG)</p>
 
-Picture Step 7-2 shows that Pipeline endpoints</p>
+Picture Step 7-2 shows the Pipeline endpoints</p>
 ![alt](https://github.com/thanasisvax/MLops-Operations/blob/master/starter_files/Pictures/Step%207-2.PNG)</p>
 
 Picture Step 7-3 shows the bank marketing dataset to be fet into the AutoML run</p>
