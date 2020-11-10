@@ -37,12 +37,12 @@ Finally, picture 2-3 show the best model which is the Voting Ensemble.</p>
 
 ### Step 3: 
 
-<p>Picture Step 3 show that the deployed best model was completed.</p>
+Picture Step 3 show that the deployed best model was completed.</p>
 ![alt](https://github.com/thanasisvax/MLops-Operations/blob/master/starter_files/Pictures/Step%203.PNG)</p>
 
 ### Step 4: 
 
-<p>Picture Step 4-1 show that the Application Insights are enabled.</p>
+Picture Step 4-1 show that the Application Insights are enabled.</p>
 ![alt](https://github.com/thanasisvax/MLops-Operations/blob/master/starter_files/Pictures/Step%204-1.PNG)</p>
 
 Picture Step 4-2 show that the logs.py file is running and reports logs back.</p>
@@ -50,17 +50,17 @@ Picture Step 4-2 show that the logs.py file is running and reports logs back.</p
 
 ### Step 5: 
 
-<p>Picture Step 5 show that the API swagger localhost page for the consumed best autoML model.</p>
+Picture Step 5 show that the API swagger localhost page for the consumed best autoML model.</p>
 ![alt](https://github.com/thanasisvax/MLops-Operations/blob/master/starter_files/Pictures/Step%205.PNG)</p>
 
 ### Step 6: 
 
-<p>Picture Step 6 show the output from the run of the endpoint.py file. Benchmark was an optional step which I didnt complete.</p>
+Picture Step 6 show the output from the run of the endpoint.py file. Benchmark was an optional step which I didnt complete.</p>
 ![alt](https://github.com/thanasisvax/MLops-Operations/blob/master/starter_files/Pictures/Step%206.PNG)</p>
 
 ### Step 7: 
 
-<p>Pictures Step 7-1, 7-2, 7-3, 7-4, 7-5, 7-5b, 7-6 show the outputs from running the aml-pipelines-with-automated-machine-learning-step.ipynd notebook file. It is apparent that running through the cells of the jupyter notebook, I created/consumed and published the best model for the bank marketing dataset using AutoML with Python SDK.</p>
+<p>Pictures Step 7-1, 7-2, 7-3, 7-4, 7-5, 7-5b, 7-6 below show the outputs from running the aml-pipelines-with-automated-machine-learning-step.ipynd notebook file. It is apparent that running through the cells of the jupyter notebook, I created/consumed and published the best model for the bank marketing dataset using AutoML with Python SDK.</p>
 
 Picture Step 7-1 shows that Pipeline has been created</p>
 ![alt](https://github.com/thanasisvax/MLops-Operations/blob/master/starter_files/Pictures/Step%207-1.PNG)</p>
