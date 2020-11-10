@@ -1,11 +1,18 @@
 
 # Bank Marketing Project
 
-## Contents
-There are four sections in this readme file:
-[overview](https://github.com/thanasisvax/MLops-Operations/tree/master/starter_files#overview)
-[Architectural Diagram](https://github.com/thanasisvax/MLops-Operations/tree/master/starter_files#architectural-diagram)
-[Key Steps](https://github.com/thanasisvax/MLops-Operations/tree/master/starter_files#key-steps)
+## Table of Contents
+
+<ol>
+<li>[overview](https://github.com/thanasisvax/MLops-Operations/tree/master/starter_files#overview)</li>
+<li>[Architectural Diagram](https://github.com/thanasisvax/MLops-Operations/tree/master/starter_files#architectural-diagram)</li>
+<li>[Key Steps](https://github.com/thanasisvax/MLops-Operations/tree/master/starter_files#key-steps)</li>
+<li>Fourth item</li>
+</ol> 
+
+
+
+
 [Improvements]()
 
 ## Overview
