@@ -23,4 +23,5 @@ Step 7: Pictures Step 7-1, 7-2, 7-3, 7-4, 7-5, 7-5b, 7-6 show the outputs from r
 Recording is available in Box folder in the following link:
 https://app.box.com/s/ppa7kiit05tmve9pry7mfdb39epwfcvq
 
+ ![fd](https://github.com/thanasisvax/MLops-Operations/blob/master/starter_files/Pictures/Step%202-1.PNG)
  
