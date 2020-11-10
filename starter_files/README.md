@@ -1,11 +1,13 @@
 
 # Bank Marketing Project
 
+## Overview
 This project is part of the Udacity Nanodegree programme. In this project, I trained my model using autoML in the Azure Studio for the Bank Marketing dataset. After that, I have used deployed the best model from the autoML run. For the best model, I enabled the application insights logging and I used swagger API to interact with the swagger instance using the HTTP GET and POST requests. Then, I used the endpoint.py file to interact with my consumed model in order to get some outputs. Finally, I used the python SDK to create/consume and publish the best model using the aml-pipelines-with-automated-machine-learning-step.ipynb.
 
 ## Architectural Diagram
 
 See the attached Architectural Steps Diagram Powerpoint.
+![Architectural Steps Diagram](https://github.com/thanasisvax/MLops-Operations/blob/master/starter_files/Pictures/Architectural%20Steps%20Diagram.PNG)
 
 ## Key Steps
 
