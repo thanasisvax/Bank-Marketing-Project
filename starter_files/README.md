@@ -4,16 +4,11 @@
 ## Table of Contents
 
 <ol>
-<li>[overview](https://github.com/thanasisvax/MLops-Operations/tree/master/starter_files#overview)</li>
-<li>[Architectural Diagram](https://github.com/thanasisvax/MLops-Operations/tree/master/starter_files#architectural-diagram)</li>
-<li>[Key Steps](https://github.com/thanasisvax/MLops-Operations/tree/master/starter_files#key-steps)</li>
-<li>Fourth item</li>
+<li>Overview</li>
+<li>Architectural Diagram</li>
+<li>Key Steps</li>
+<li>Improvements</li>
 </ol> 
-
-
-
-
-[Improvements]()
 
 ## Overview
 This project is part of the Udacity Nanodegree programme. In this project, I trained my model using autoML in the Azure Studio for the Bank Marketing dataset. After that, I have used deployed the best model from the autoML run. For the best model, I enabled the application insights logging and I used swagger API to interact with the swagger instance using the HTTP GET and POST requests. Then, I used the endpoint.py file to interact with my consumed model in order to get some outputs. Finally, I used the python SDK to create/consume and publish the best model using the aml-pipelines-with-automated-machine-learning-step.ipynb.
@@ -26,7 +21,8 @@ The steps followed throughout this project are shown below in the Architectural 
 ## Key Steps
 
 #Note: All the pictures can be found in this GIT repository Starter_files/Pictures. 
-Step 1: I skipped this step as I used the Udacity Lab and as such I was not authorized to create a principal security.
+
+Step 1: I skipped this step as I used the Udacity Lab and as such I was not authorized to create a principal security.</p>
 Step 2: Pictures Step 2-1, 2-2, 2-3 are applicable for this step. In picture Step 2-1, it can be seen the registered dataset in AzureML studio which is the bank marketing dataset. The picture Step 2-2 show that the AutoML run is completed. Finally, picture 2-3 show the best model which is the Voting Ensemble. 
 Step 3: Picture Step 3 show that the deployed best model was completed.
 Step 4: Picture Step 4-1 show that the Application Insights are enabled and Step 4-2 show that the logs.py file is running and reports logs back.
