@@ -7,7 +7,7 @@ This project is part of the Udacity Nanodegree programme. In this project, I tra
 ## Architectural Diagram
 
 The steps followed throughout this project are shown below in the Architectural Diagram. 
-![Architectural Steps Diagram](https://github.com/thanasisvax/MLops-Operations/blob/master/starter_files/Pictures/Architectural%20Steps%20Diagram.PNG)
+![Architectural Steps Diagram](https://github.com/thanasisvax/MLops-Operations/blob/master/starter_files/Pictures/Architectural%20Steps%20Diagram.PNG?raw=True "Title")
 
 ## Key Steps
 
