@@ -22,9 +22,10 @@ The steps followed throughout this project are shown below in the Architectural 
 
 ### Step 1: 
 <p>I skipped this step as I used the Udacity Lab and as such I was not authorized to create a principal security.</p>
+
 ### Step 2: 
-<p>In picture Step 2-1 it can be seen the registered dataset in AzureML studio which is the bank marketing dataset.</p>
- ![](https://github.com/thanasisvax/MLops-Operations/blob/master/starter_files/Pictures/Step%202-1.PNG)</p>
+<p>In picture Step 2-1 it can be seen the registered dataset in AzureML studio which is the bank marketing dataset.
+![](https://github.com/thanasisvax/MLops-Operations/blob/master/starter_files/Pictures/Step%202-1.PNG)
 The picture Step 2-2 show that the AutoML run is completed.</p>
 ![](https://github.com/thanasisvax/MLops-Operations/blob/master/starter_files/Pictures/Step%202-2.PNG)</p>
 Finally, picture 2-3 show the best model which is the Voting Ensemble.</p>
