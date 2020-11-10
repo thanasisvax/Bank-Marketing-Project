@@ -62,13 +62,13 @@ Picture Step 6 show the output from the run of the endpoint.py file. Benchmark w
 
 <p>Pictures Step 7-1, 7-2, 7-3, 7-4, 7-5, 7-5b, 7-6 below show the outputs from running the aml-pipelines-with-automated-machine-learning-step.ipynd notebook file. It is apparent that running through the cells of the jupyter notebook, I created/consumed and published the best model for the bank marketing dataset using AutoML with Python SDK.</p>
 
-Picture Step 7-1 shows that Pipeline has been created</p>
+Picture Step 7-1 shows that Pipeline has been created.</p>
 ![alt](https://github.com/thanasisvax/MLops-Operations/blob/master/starter_files/Pictures/Step%207-1.PNG)</p>
 
-Picture Step 7-2 shows the Pipeline endpoints</p>
+Picture Step 7-2 shows the Pipeline endpoints.</p>
 ![alt](https://github.com/thanasisvax/MLops-Operations/blob/master/starter_files/Pictures/Step%207-2.PNG)</p>
 
-Picture Step 7-3 shows the bank marketing dataset to be fed into the AutoML run</p>
+Picture Step 7-3 shows the bank marketing dataset to be fed into the AutoML run.</p>
 ![alt](https://github.com/thanasisvax/MLops-Operations/blob/master/starter_files/Pictures/Step%207-3.PNG)</p>
 
 Picture Step 7-4 shows the REST endpoint and the status to be Active.</p>
@@ -88,4 +88,4 @@ https://app.box.com/s/ppa7kiit05tmve9pry7mfdb39epwfcvq</p>
 **Note:** The file can be downloaded from the Box link above.
 
  ## Improvements
-The dataset looks to be biased towards the no answer on the 'y' column. So, one of the improvements on the notebook will be to try to split the data to training/cross validation/testing datasets in order to try to improve the overfitting of the model.</p> Also, we can try to create our own classification model instead of using the AutoML config machine in order to identify the best model. This will give us the opportunity to optimize our model using the hyperparameter functions.</p> Another suggestion is to enable the deep learning for the classification task in order to check if the accuracy is improved</p> Finally, I would suggest to play more with the endpoint.py file in order to interact more with our deployed model.
+The dataset looks to be biased towards the no answer on the 'y' column. So, one of the improvements on the notebook will be to try to split the data to training/cross validation/testing datasets in order to try to improve the overfitting of the model.</p> Also, we can try to create our own classification model instead of using the AutoML config machine in order to identify the best model. This will give us the opportunity to optimize our model using the hyperparameter functions.</p> Another suggestion is to enable the deep learning for the classification task in order to check if the accuracy is improved.</p> Finally, I would suggest to play more with the endpoint.py file in order to interact more with our deployed model.
