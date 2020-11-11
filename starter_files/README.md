@@ -11,7 +11,7 @@
 </ol> 
 
 ## Overview
-This project is part of the Udacity Nanodegree programme. In this project, I trained my model using autoML in the Azure Studio for the Bank Marketing dataset. After that, I have deployed the best model from the autoML run. For the best model, I enabled the application insights logging and I used swagger API to interact with the swagger instance using the HTTP GET and POST requests. Then, I used the endpoint.py file to interact with my consumed model in order to get some outputs. Finally, I used the python SDK to create/consume and publish the best model using the aml-pipelines-with-automated-machine-learning-step.ipynb.
+This project is part of the Udacity Nanodegree programme. In this project, I trained my model using autoML in the Azure Studio for the Bank Marketing dataset. After that, I have deployed the best model from the autoML run. For the best model, I enabled the application insights logging and I used swagger API to interact with the swagger instance using the HTTP GET and POST requests. By deploying the model in Azure Machine Learning as a web service creates a REST API endpoint. Then, I used the endpoint.py file to interact with the API endpoing for my consumed model in order to send some requests and get some responses from my model. Finally, I used the python SDK to create/consume and publish the best model using the aml-pipelines-with-automated-machine-learning-step.ipynb.
 
 ## Architectural Diagram
 
